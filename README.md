@@ -1,4 +1,4 @@
-# Ice Cream Website
+# Ice Cream Website 🐱‍🏍 https://manjusrisadhasivam.github.io/icecream/
 
 Welcome to the Ice Cream Website project! This repository contains the source code for a simple and visually appealing ice cream website developed using HTML, CSS, and JavaScript.
 
